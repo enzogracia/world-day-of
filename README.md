@@ -6,12 +6,10 @@ The application features a fully revamped UI with dark mode support and sleek, r
 
 ---
 
-## ✨ Features (v1.2)
+## ✨ Features (v1.5)
 
-*   🎨 **UI Revamp:** Clean, spacious, and modern interface layout.
-*   🌙 **Dark Mode:** Native dark appearance setting for better readability and eye comfort.
-*   🔘 **Rounded Buttons:** Smooth, modern interactive components.
-*   🔤 **Improved Typography:** Uses clean, system-native fonts with enhanced hierarchy.
+*   ℹ️ **Real Information:** Most of the World Days are here.
+*   📋 **Modify:** A day is missing? You can add it in `dias_mundiales.json` or make a issue.
 
 ---
 
